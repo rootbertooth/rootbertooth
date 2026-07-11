@@ -89,7 +89,7 @@ Dashboard en TypeScript para seguimiento de mercados financieros con visualizaci
 ## 📫 Contacto
 
 <p>
-  <a href="mailto:TODO@CAMBIAR.com"><img alt="Email" src="https://img.shields.io/badge/Email-✉️-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:info@respuestasinteligentes.com"><img alt="Email" src="https://img.shields.io/badge/Email-✉️-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="TODO-LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/rootbertooth"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-rootbertooth-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
