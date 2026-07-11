@@ -42,10 +42,15 @@ PWA en producción con IA conversacional ("Miga") que recomienda recetas persona
 - **Vision:** Diagnóstico de platos por foto (Claude Vision)
 - **Otros:** 4 niveles de acceso (demo visitante, demo registrado, básico, premium), verificación por email con Resend, menú semanal automático, lista de compra, historial con valoraciones
 
-### 🏃 CarrerasGS — Plataforma de carreras
-[![Live](https://img.shields.io/badge/Live-carrerags.org-22c55e?style=flat-square)](https://carrerags.org) [![Repo](https://img.shields.io/badge/Repo-carrerags.org-181717?style=flat-square&logo=github)](https://github.com/rootbertooth/carrerags.org)
+### 🦍 Gorilla Mansion — Plataforma de sweepstakes
+[![Repo](https://img.shields.io/badge/Repo-gorillamansion.xyz-181717?style=flat-square&logo=github)](https://github.com/rootbertooth/gorillamansion.xyz)
 
-Plataforma en producción para gestión de carreras deportivas con backend Python/Flask, frontend React y panel de administración. 21k+ líneas de código, 115+ commits.
+Plataforma web de concursos y sweepstakes con autenticación, panel de usuario, sistema de créditos y gamificación. Frontend moderno en React 19 con TypeScript estricto, Tailwind CSS v4 y backend serverless en Supabase.
+
+- **Frontend:** React 19 + TypeScript + Vite + Tailwind CSS v4
+- **Backend/BaaS:** Supabase (auth + base de datos en tiempo real)
+- **Componentes clave:** Auth, Game, CreditPanel, SweepstakesInfo, UserStatusBar
+- **Tooling:** ESLint type-aware, React Refresh, build con `tsc -b && vite build`
 
 ### 📈 Stock — Dashboard de mercados
 [![Repo](https://img.shields.io/badge/Repo-stock-181717?style=flat-square&logo=github)](https://github.com/rootbertooth/stock)
@@ -57,6 +62,7 @@ Dashboard en TypeScript para seguimiento de mercados financieros con visualizaci
 ## 🤖 Bots y otros proyectos
 
 - **Telegram bots** — múltiples bots en producción para distintos negocios (atención al cliente, señales, gestión de usuarios)
+- **CarrerasGS** — plataforma de gestión de carreras deportivas (carrerags.org)
 - **TarracoKey** — web + landing para negocio de cerrajería en Tarragona
 - **Ofericios** — plataforma de ofertas laborales con scraping y enriquecimiento de datos
 - **Respuestas Inteligentes** — backend multi-tenant para asistentes IA
