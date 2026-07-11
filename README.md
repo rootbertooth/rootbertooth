@@ -72,8 +72,9 @@ Dashboard en TypeScript para seguimiento de mercados financieros con visualizaci
 ## 📊 GitHub Stats
 
 <p>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rootbertooth&show_icons=true&theme=default&count_private=true&hide_border=true" height="170"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootbertooth&layout=compact&theme=default&count_private=true&hide_border=true" height="170"/>
+  <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rootbertooth&theme=default" height="160"/>
+  <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rootbertooth&theme=default" height="160"/>
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rootbertooth&theme=default&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -89,11 +90,18 @@ Dashboard en TypeScript para seguimiento de mercados financieros con visualizaci
 ## 📫 Contacto
 
 <p>
-  <a href="mailto:info@respuestasinteligentes.com"><img alt="Email" src="https://img.shields.io/badge/Email-✉️-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/respuestas-inteligentes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:TODO@CAMBIAR.com"><img alt="Email" src="https://img.shields.io/badge/Email-✉️-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="TODO-LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/rootbertooth"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-rootbertooth-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 > 📍 Tarragona, España
 
 ---
+
+<details>
+<summary>🔧 Sobre este README</summary>
+
+Este README se muestra automáticamente en mi perfil de GitHub porque vive en el repo especial `rootbertooth/rootbertooth`. Generado como parte de una auditoría de portfolio — ver [repo de auditoría](https://github.com/rootbertooth) para más detalles.
+
+</details>
