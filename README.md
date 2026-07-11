@@ -97,10 +97,3 @@ Dashboard en TypeScript para seguimiento de mercados financieros con visualizaci
 > 📍 Tarragona, España
 
 ---
-
-<details>
-<summary>🔧 Sobre este README</summary>
-
-Este README se muestra automáticamente en mi perfil de GitHub porque vive en el repo especial `rootbertooth/rootbertooth`. Generado como parte de una auditoría de portfolio — ver [repo de auditoría](https://github.com/rootbertooth) para más detalles.
-
-</details>
